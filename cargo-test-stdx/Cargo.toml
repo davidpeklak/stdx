@@ -1,0 +1,7 @@
+[package]
+name = "cargo-test-stdx"
+version = "0.1.0"
+authors = ["David Peklak <dpeklak@gmail.com>"]
+
+[dependencies]
+toml = "0.4.1"
